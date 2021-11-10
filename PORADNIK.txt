@@ -1,0 +1,11 @@
+Poradnik dla sochackiego:
+1. Klikasz zielony guzik z napisem "CODE"
+2. Klikasz "Download ZIP"
+3. Otwótz ściągniętego ZIP-a
+4. Wejdź w "sus-main"
+5. Przeciągnij folder o nazwie "e" na pulpit
+6. Gratuluję! Udało ci się. Możesz teraz pochwalić się swojej mamie (jeżeli masz).
+7. Opcjonalnie możesz usunąć plik .zip
+8. Aby wejść na stronę klikasz "index.html"
+9. Jeżeli otwiera się notatnik lub inny edytor, kliknij na "index.html" prawym przyciskiem myszy, wybierz opcję "Otwórz za pomocą", wybierz dowolną przeglądarkę.
+10. Jeżeli dalej ci się nie otwiera, radzę ci zrobić aborcję na samym sobie.
